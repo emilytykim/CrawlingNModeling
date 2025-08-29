@@ -1,0 +1,23 @@
+[
+
+  {
+    "group": "여성패션",
+    "board_name": "여성패션_신발",
+    "menu_id": 331
+  },
+  {
+    "group": "여성패션",
+    "board_name": "여성패션_가방잡화",
+    "menu_id": 364
+  },
+  {
+    "group": "여성패션",
+    "board_name": "여성패션_기타",
+    "menu_id": 360
+  },
+  {
+    "group": "남성패션",
+    "board_name": "남성패션_의류",
+    "menu_id": 358
+  }
+]
